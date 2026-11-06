@@ -1,7 +1,7 @@
 # Snake Game
 
 <h2 style="color:pink;">
-  🩷 Game Technologies:
+  💛 Game Technologies:
 </h2>
 <ul>
   <ol>Cpp</ol>
@@ -10,7 +10,7 @@
 </ul>
 
 <h2 style="color:pink;">
-  🩷 Game Preview
+ 💛 Game Preview
 </h2>
 <p align="center">
   <img src="src/screenshots/SnakeGamePrevShorter.gif" 
